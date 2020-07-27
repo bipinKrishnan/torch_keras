@@ -1,1 +1,2 @@
-# torchkeras
+# TorchKeras
+Recreating keras with pytorch
