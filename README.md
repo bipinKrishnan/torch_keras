@@ -1,2 +1,2 @@
 # TorchKeras
-Recreating keras with pytorch
+Recreating Keras with PyTorch
