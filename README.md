@@ -1,4 +1,4 @@
-# TorchKeras
+# Torch-Keras
 **Recreating Keras with PyTorch**
 
 [functional_api_v1](https://github.com/bipinKrishnan/torchkeras/blob/master/functional_api_v1.ipynb) - An easy to use framework inspired by Tensorflow's keras but for PyTorch users.
@@ -12,7 +12,7 @@ pip install git+https://github.com/bipinKrishnan/torch_keras
       
 ### Usage
 
-* Training convolutional neural network on CIFAR-100 dataset
+* Training convolutional neural network on CIFAR-100 dataset using ```torch_keras```
 
 ```python
 import torch
