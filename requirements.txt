@@ -1,0 +1,3 @@
+torch-summary==1.4.5
+torch==1.11.0+cu113
+pkbar==0.5
