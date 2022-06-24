@@ -6,7 +6,9 @@
 [![article](https://img.shields.io/badge/-article-blueviolet)](https://towardsdatascience.com/recreating-keras-functional-api-with-pytorch-cc2974f7143c?source=---------4----------------------------)  [![nbviewer](https://img.shields.io/badge/-nbviewer-blue)](https://nbviewer.jupyter.org/github/bipinKrishnan/torchkeras/blob/master/functional_api_v1.ipynb)
 
 ### Installing the library
-      pip install git+https://github.com/bipinKrishnan/torchkeras
+```bash
+pip install git+https://github.com/bipinKrishnan/torchkeras
+```
       
 ### Usage
 
