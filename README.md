@@ -7,7 +7,7 @@
 
 ### Installing the library
 ```bash
-pip install git+https://github.com/bipinKrishnan/torchkeras
+pip install git+https://github.com/bipinKrishnan/torch_keras
 ```
       
 ### Usage
@@ -21,8 +21,8 @@ import torchvision
 from torchvision import transforms
 from torch.utils.data import DataLoader
 
-from torchkeras import Input, Model
-from torchkeras.layers import Dense, Conv2d, Flatten
+from torch_keras import Input, Model
+from torch_keras.layers import Dense, Conv2d, Flatten
 
 
 bs = 128
