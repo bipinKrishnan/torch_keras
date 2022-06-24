@@ -26,6 +26,7 @@ from torch_keras.layers import Dense, Conv2d, Flatten
 
 
 bs = 128
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 transform = transforms.ToTensor()
 
 # prepare train and test sets
